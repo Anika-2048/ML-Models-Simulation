@@ -1,0 +1,7 @@
+gradio==4.25.0
+torch
+transformers
+diffusers
+scikit-learn
+numpy
+matplotlib
